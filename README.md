@@ -1,2 +1,2 @@
-# codesandbox-udemy-js
+# codesandbox-js
 Created with CodeSandbox
